@@ -1,7 +1,9 @@
 Project Overview-
+
 This LinkedIn Clone is a web application built using ReactJS and Material-UI (MUI). The project replicates the core features of LinkedIn, including a Navbar with different icons and an interface that mimics the professional networking platform. The primary objective of this project is to demonstrate proficiency in React, component-based architecture, and state management.
 
 Features-
+
 (a)Responsive Design: The application is responsive and adapts to different screen sizes, providing a seamless user experience across devices.
 Component-Based Architecture: The project is structured around React components, making the codebase more modular, maintainable, and scalable.
 
@@ -31,8 +33,11 @@ Getting Started
 To run this project locally:
 
 1.Clone the repository
+
 2.Navigate to the project directory
+
 3.Install the dependencies
+
 4.Start the development server
 
 
